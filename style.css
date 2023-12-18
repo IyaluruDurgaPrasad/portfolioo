@@ -1,0 +1,185 @@
+*{
+	font-family:cursive;
+}
+body{
+	overflow-x:hidden;
+	background:#DBF9DB;
+}
+li{
+	margin-left:50px;
+}
+.row{
+	/*margin-left:100px;*/
+	margin-top:10px;
+}
+.card{
+	margin-left:5px;
+}
+*{
+	/*line-height:5px;*/
+
+}
+.img{
+	height:450px;
+	border-radius:50%;
+}
+.progress{
+	height:9px;
+	font-size:9px;
+	margin-bottom:20px;
+	width:90%;
+	margin-left:130px;
+}
+.icon{
+	margin-top:10px;
+	margin-left:130px;
+}
+.title{
+	margin-left:130px;
+}
+.round-70{
+	width:14%;
+	/*border:solid;*/
+	background:#6960EC;
+	height:1%;
+	border-radius:80%;
+	margin-left:70px;
+}
+.round-80{
+	width:18%;
+	/*border:solid;*/
+	background:#CCCCFF;
+	height:18%;
+	border-radius:50%;
+	margin-left:70px;
+}
+.round-85{
+	width:20%;
+	/*border:solid;*/
+	background:#F67280;
+	height:20%;
+	border-radius:50%;
+	margin-left:70px;
+}
+.round-75{
+	width:16%;
+	/*border:solid;*/
+	background:#F2A2E8;
+	height:16%;
+	border-radius:50%;
+	margin-left:70px;
+}
+.skills{
+	padding-top:40px;
+}
+.card-title{
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.card{
+	/*box-shadow:1px 1px 1px 2px pink;*/
+	/*border:none;*/
+}
+.Qualification{
+	padding-bottom:40px;
+}
+.techno{
+	background:#FEF0E3;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Moon Dance', cursive;
+	font-weight:bold;
+}
+.fpic{
+	border-radius:20px;
+	width:100%;
+	margin-bottom:5px;
+	box-shadow:1px 1px 3px 4px skyblue;
+}
+
+input,textarea{
+	width:120%;
+	text-align:center;
+	margin-left:55px;
+	height:40px;
+	border-radius:22px;
+	border:none;
+	margin-top:5px;
+	background:#FFF9E3;
+}
+textarea{
+	height:150px;
+}
+
+.form{
+	margin:auto;
+}
+iframe{
+	width:100%;
+	height:250px;
+}
+i{
+	margin-left:10px;
+	color:black;
+	font-weight:bold;
+}
+.footer{
+	margin-top:20px;
+	color:white;
+}
+.nav{
+	color:white;
+}
+.nav-link{
+	color:white;
+}
+
+.nav-link:hover{
+	color:blue;
+	background:white
+}
+
+.durga{
+	margin-bottom:20px;
+}
+
+.pic{
+	border-radius:50%;
+	background:#DBF9DB;
+	box-shadow:1px 1px 3px 4px #FF007F;
+}
+}
+.back{
+	background:#A0D6B4;
+}
+
+.aboutme{
+	box-shadow:1px 1px 3px 4px skyblue;
+	background:#F5FFFA;
+}
+
+.q{
+	box-shadow:1px 1px 3px 4px #7A5DC7;
+	border:none;
+	background:#FFF9E3;
+	margin-bottom:15px;
+}
+
+.techno,.prof{
+	background:#EAEEE9;
+	box-shadow:1px 1px 1px 1px pink;
+}
+
+
+.ddd{
+	background:black;
+}
+
+.interests{
+	background:#F9F6EE;
+}
+
+.i{
+	color:white;
+}
